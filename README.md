@@ -7,5 +7,5 @@ I'm currently working for AWS ElastiCache Redis.
 In my spare time, I like messing around with Kubernetes.
 I also really enjoy building existing tools from scratch, to get to know them better. 
 
-I sometimes consult for startups, mostly on how to use a small time to make a lot of impact very fast.
+I sometimes consult for startups, mostly on how to use a small team to make a lot of impact very fast, without sacrificing code quality.
 Feel free to email me if you need some help.
